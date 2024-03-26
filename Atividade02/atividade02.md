@@ -26,16 +26,16 @@ Resolva o Teste de Conhecimento do **Módulo 1 - Visão geral dos conceitos de n
 	- **Software como serviço (SaaS)**: os serviços nesta categoria fornecem um produto completo que o provedor de serviços executa e gerencia. O software como serviço refere-se a aplicativos de usuário final. Com uma oferta de SaaS, não é necessário pensar na manutenção do serviço ou no gerenciamento da infraestrutura subjacente.  Exemplo: Microsoft oferece o Microsoft Office 365, hospedado na nuvem e acessíveis mediante assinatura.
 
 3. Cite **três** serviços da AWS para cada categoria a seguir:
-	Computação:
+	- Computação:
 		1. Amazon Elastic Compute Cloud (EC2)
 		2. Amazon Elastic Container Service (ECS)
 		3. AWS Lambda
 	
-	Armazenamento:
+	- Armazenamento:
 		1. Amazon Simple Storage Service (S3)
 		2. Amazon Elastic Block Store (EBS)
 		3. Amazon Glacier
-	 Banco de dados:
+	- Banco de dados:
 		 1. Amazon Relational Database Service (RDS)
 		 2. Amazon DynamoDB
 		 3. Amazon Aurora
